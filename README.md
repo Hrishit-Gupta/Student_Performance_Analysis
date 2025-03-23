@@ -1,2 +1,1 @@
-## Its a ML project in which we will analyze the student test score correlation with different parameters 
-
+## This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
